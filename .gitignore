@@ -1,0 +1,9 @@
+.env
+**/__pycache__
+results
+logs
+model
+docs
+index
+config.json
+.ipynb_checkpoints

@@ -1,0 +1,13 @@
+openai
+langchain
+tiktoken
+jupyterlab
+chromadb
+pypdf
+panel
+param
+docarray
+jupyter_bokeh
+llama-index
+unstructured[pdf]
+llama-cpp-python
